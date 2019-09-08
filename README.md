@@ -36,3 +36,36 @@ Pretendiendo crear un orden efectivo que tenga acceso a la información cuantita
 •No funcionales:
 
 -Computadora, sistema operativo
+## **Logo**
+
+•El logo animal es más fácil de recordar.
+
+•Se puede entre ver como se comporta el negocio y su creación.
+
+•Branding asociativo.
+
+•Lobo: Se interpreta por sus características, las cuales son, inteligencia, destreza, análisis.
+
+•Cebra: Sus rayos blancas y negras reflejan la claridad del proceso de creación. Tienen una gran variedad de expresiones, que muestra forma de trabajo comunicativo.
+
+
+
+# **Eslogan**
+
+ •El eslogan habla de un orden literal y un pensamiento claro de interpretar los inventarios.
+
+De igual forma habla de las plataformas en las cuales se puede iniciar.
+
+
+
+#**¿Por qué existe este negocio?**
+•El inventario es uno de los elementos importantes en la construcción de una empresa ya que es el control de costes rentabilidad del negocio, el inventario incluye materia prima, mercancías para la venta, materiales y su repuesto, evaluando a los proveedores y en lo posible reducir su costo.
+
+•Contando con esto se puede decir que es necesario un sistema que permita una facilidad para llevar el control continuo y actualizado de los productos.
+
+
+
+#**¿Cuál es el valor de mi trabajo aquí?**
+•La responsabilidad de dar respuesta y orden de cada materia prima que ingrese es una presión, por lo tanto, es un deber hacerlo bien. Entre las obligaciones está el monitoreo y supervisión del inventario.
+#**Mi trabajo aquí**
+•-Inventar un sistema de seguridad y confiabilidad para implementar métodos para evaluar las mercancías. ¡Sin dejar nada a la ligera! Y esto incluye a quién este a mi lado en la seguridad de cada uno de los productos y de las personas que los manejen
